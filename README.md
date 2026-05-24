@@ -70,9 +70,46 @@ Skapa djur
 fler grödor
 Quest system
 
+Hur kommer man igång med spelet:
 
-länkar : 
+
+För att öppna projektet behövs:
+- Unity Hub
+- Unity (Editor Version : 6000.3.10f1) #viktigt att man änvander just det version. Kan annas krascha eftersom filer är kompatibelt med just det version.
+- Windows 10/11
+
+Installation
+
+1. Klona repositoryt från Github
+2. Öppna projektet i Unity Hub
+3. Öppna projektmappen
+
+Köra programmet
+
+1. Starta Unity
+2. Öppna projektet
+3. Öppna huvudscenen
+4. Tryck på Play i Unity
+
+
+Dokumentation
+
+Koden är kommenterad och organiserad i olika scripts och mappar för att göra projektet lättare att förstå och vidareutveckla.
+
+
+
+ Testning och Säkerhet
+
+Projektet har testats genom användartester och felsökning under utvecklingsprocessen.
+
+Ingen känslig användardata lagras i projektet.
+
+
+
+TIllgång till andra material för projektet : 
 Figma: https://www.figma.com/design/qBuYHg5d5oIZl4pNYsv4hs/Untitled?node-id=0-1&t=bhcWJDPi6lf1dGsY-1
 Trello: https://trello.com/invite/b/6a11b6405b29234b41fdcdbc/ATTIc53fcd6d678e0fd68c114e8e9a2ae35207A0E4DD/aura-farming
+
+
 
 
