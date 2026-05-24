@@ -1,5 +1,3 @@
-# Unity-project-Github-
-
 Aura Farming
 
 
@@ -74,6 +72,7 @@ Quest system
 
 
 länkar : 
-
+Figma: https://www.figma.com/design/qBuYHg5d5oIZl4pNYsv4hs/Untitled?node-id=0-1&t=bhcWJDPi6lf1dGsY-1
+Trello: https://trello.com/invite/b/6a11b6405b29234b41fdcdbc/ATTIc53fcd6d678e0fd68c114e8e9a2ae35207A0E4DD/aura-farming
 
 
